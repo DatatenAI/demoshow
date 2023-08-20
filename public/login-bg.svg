@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 1024 1024">
+    <g>
+        <ellipse stroke="currentColor" ry="512" rx="512" cy="512" cx="512" fill="#fff"/>
+        <ellipse ry="384" rx="384" cy="512" cx="512" stroke="currentColor" fill="#fff"/>
+        <ellipse ry="256" rx="256" cy="512" cx="512" stroke="currentColor" fill="#fff"/>
+        <ellipse ry="128" rx="128" cy="512" cx="512" stroke="currentColor" fill="#fff"/>
+    </g>
+</svg>
